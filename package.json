@@ -1,0 +1,19 @@
+{
+  "name": "testpackage2",
+  "main": "./lib/testpackage2",
+  "version": "1.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "testpackage2"
+  ],
+  "activationCommands": {
+    "atom-workspace": "testpackage2:toggle"
+  },
+  "repository": "https://github.com/atom/testpackage2",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
